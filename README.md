@@ -69,5 +69,5 @@ Peru dramatically leads the fatality rate chart at 5.48%, meaning roughly 1 in e
 
 Together these two charts expose a fundamental tension in pandemic measurement: the countries that died the most are not the same as the countries where infection was most deadly. France had over 161,000 deaths but had such widespread confirmed case detection that its fatality rate was negligible by comparison. Peru, on the other hand, had far fewer recorded cases, yet its death toll relative to those cases was the highest of any country in the top 10. This shows that Peru was a strong signal of either overwhelmed healthcare infrastructure, significant undercounting of confirmed cases during the outbreak, or both. Brazil is the only country that ranks highly on both charts, appearing 2nd in total deaths and 2nd in CFR at 2.77%, making it the clearest example of a country that experienced both high outbreak volume and high outbreak severity simultaneously.
 
-## Streamlit App<img width="807" height="438" alt="Screenshot 2026-04-26 at 10 12 59 PM" src="https://github.com/user-attachments/assets/7e25c9e9-ddec-4024-9c9e-d2101b858b98" />
+## Streamlit App
 
