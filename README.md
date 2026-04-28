@@ -2,8 +2,8 @@
 
 Team Members: 
 
-Evelyn Merchant: @evelynjmerch
-Divesh Gupta: @legendile7
+- Evelyn Merchant: @evelynjmerch
+- Divesh Gupta: @legendile7
 
 
 ## Dataset Description
